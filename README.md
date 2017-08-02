@@ -20,5 +20,4 @@ Expandaing contractions
 Removing smiley or unusal symbols
 Lemmatization
 Stemming 
-LSI 
 
